@@ -6,5 +6,5 @@ Script que pregunta el nombre del usuario en la consola y después de que el usu
 """
 
 name = input("Introduce tu nombre: man555")
-print("¡Hola " + name str + “!")
-print ("hola otra vez")
+print("¡Hola " + name + “!")
+asasas
